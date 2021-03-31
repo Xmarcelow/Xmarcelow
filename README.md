@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://img.shields.io/github/followers/gitcoffe?label=Follow&style=social" alt="github followers" /><br>
+    <img src="https://img.shields.io/github/followers/zMarceloUS?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Xmarcelow&show_icons=true&custom_title=gitcoffe%20Github%20Stats&theme=gotham" alt="Lennart Statistics." />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmarcelow&layout=compact&theme=gotham" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api?username=zMarceloUS&show_icons=true&custom_title=zMarceloUS%20Github%20Stats&theme=gotham" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMarceloUS&layout=compact&theme=gotham" alt="Lennart Statistics." />
 
 </p>
 <hr>
