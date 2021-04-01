@@ -10,7 +10,7 @@
  
 
 Discord: zMarceloUS_#6447
-Estou Aprendendo C
+
 
 <br>
 
