@@ -21,6 +21,5 @@ Discord: zMarceloUS_#6447
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Pug](https://img.shields.io/badge/-Pug-000000?style=for-the-badge&logo=pug&logoColor=f74b00)
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
 
